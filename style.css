@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+
+h1{
+    color: blueviolet;
+    margin: 1rem;
+}
+
+/* .Pattern_1{
+    display: inline-block;
+    align-items: center;
+    margin:5px;
+} */
+
+.num{
+    padding: 15px;
+}
+
+.num textarea{
+    padding: 15px;
+
+}
+
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
